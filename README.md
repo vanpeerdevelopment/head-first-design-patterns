@@ -14,5 +14,9 @@ Exercises and notes for the [head first design patterns](http://www.headfirstlab
 ## Structure
 For each reading group session a java package exists containing the following:
 - *NOTES.md* containing the chapters handled, an agenda for the session, some notes and links to notes of other team members
-- A subpackage for each pattern handled during the session containing an *exercise and solution* with unit tests 
+- A subpackage for each pattern handled during the session containing an *exercise and solution* with unit tests
+
+## Links
+- [Design Patterns](https://refactoring.guru/design-patterns)
+- [Thomas Patterns](https://github.com/VanausloosThomas/PersonalDevelopment/blob/master/knowledge/DesignPatterns.md) 
 

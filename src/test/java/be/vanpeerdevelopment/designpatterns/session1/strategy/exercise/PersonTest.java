@@ -7,7 +7,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 public class PersonTest {
 
     @Test
-    public void getName() {
+    public void getNumberOfDuvelsOrderedAtBlommeke() {
         Person lightMan = new Man("Jos", 70);
         assertThat(lightMan.getNumberOfDuvelsOrderedAtBlommeke()).isEqualTo(3);
 
@@ -25,7 +25,7 @@ public class PersonTest {
         // matthias.setDrinkingBehavior(new AlcoholicBehavior());
         // assertThat(matthias.getNumberOfDuvelsOrderedAtBlommeke()).isEqualTo(10);
 
-        // Person dieterDayAfterHangover = new Man("A", 70);
+        // Person dieterDayAfterHangover = new Man("Dieter", 70);
         // dieterDayAfterHangover.setDrinkingBehavior(new SoberBehavior());
         // assertThat(dieterDayAfterHangover.getNumberOfDuvelsOrderedAtBlommeke()).isEqualTo(0);
     }
