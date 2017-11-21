@@ -31,3 +31,10 @@ Quite a lot of text and explanation how the book is written and which techniques
   e.g. the initial behavior can be set in the constructor of a concrete duck, and possible overwritten using the setter. Duck will now delegate its flying and quacking behavior, instead of using quacking and flying methods defined in the Duck class (or subclass).
 - **Strategy**  
   The Strategy Pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
+  
+  
+Exercise
+- extract behavior/strategy in an interface with concrete subclasses
+- add the behaviors as a field to the abstract super class, init them in the concrete class constructor
+- delegate to the behavior
+- add setter to change strategy at runtime 
