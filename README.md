@@ -16,6 +16,10 @@ For each reading group session a java package exists containing the following:
 - *NOTES.md* containing the chapters handled, an agenda for the session, some notes and links to notes of other team members
 - A subpackage for each pattern handled during the session containing an *exercise and solution* with unit tests
 
+## Sessions
+- [Session 1: intro, strategy](https://github.com/vanpeerdevelopment/head-first-design-patterns/blob/master/src/main/java/be/vanpeerdevelopment/designpatterns/session1/NOTES.md)
+- [Session 2: observer, decorator](https://github.com/vanpeerdevelopment/head-first-design-patterns/blob/master/src/main/java/be/vanpeerdevelopment/designpatterns/session2/NOTES.md)
+
 ## Links
 - [Design Patterns](https://refactoring.guru/design-patterns)
 - [Thomas Patterns](https://github.com/VanausloosThomas/PersonalDevelopment/blob/master/knowledge/DesignPatterns.md) 
