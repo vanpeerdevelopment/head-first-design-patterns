@@ -9,7 +9,13 @@ Facilitator: Matthias
 ?
 
 ## Notes
-**3. The Observer Pattern**
+**2. The Observer Pattern**
+* _The Observer pattern_ defines a one-to-many dependency between objects so that when one object changes state, all of its dependents are notified and updated automatically.
+* Strive for loosely coupled designs between objects that interact.
+* Pull vs push
+* Observer and Observable in Java API (can be useful, but has some side-effects, so be careful).
+
+**3. The Decorator Pattern**
 * _The open-closed principle_: Classes should be open for extension, but closed for modification.
 * _The Decorator pattern_ attaches additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
 * Caveat:
