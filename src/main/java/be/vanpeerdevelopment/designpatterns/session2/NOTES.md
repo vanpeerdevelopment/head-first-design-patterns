@@ -5,9 +5,6 @@ Facilitator: Matthias
 2. The Observer Pattern: Keeping your Objects in the know
 3. The Decorator Pattern: Decorating Objects
 
-## Agenda
-?
-
 ## Notes
 **2. The Observer Pattern**
 * _The Observer pattern_ defines a one-to-many dependency between objects so that when one object changes state, all of its dependents are notified and updated automatically.
