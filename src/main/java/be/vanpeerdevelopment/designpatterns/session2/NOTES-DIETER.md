@@ -1,4 +1,4 @@
-# Session 2 (05/06/2017)
+# Session 2 (05/12/2017)
 Facilitator: Matthias
 
 ## Chapters
