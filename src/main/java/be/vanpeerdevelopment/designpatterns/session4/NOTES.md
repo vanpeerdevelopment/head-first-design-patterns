@@ -1,5 +1,5 @@
-# Session 4 (?)
-Facilitator: ?
+# Session 4 (09/12/2017)
+Facilitator: Thomas
 
 ## Chapters
 6. The Command Pattern: Encapsulating Invocation
