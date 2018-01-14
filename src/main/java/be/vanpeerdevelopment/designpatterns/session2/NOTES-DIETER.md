@@ -34,4 +34,4 @@ Facilitator: Matthias
 - Have a abstract class or interface defining the api. Implement the concrete subclasses. Add a decorator subclass with an instance variable for the decorated abstract class and implement concrete decorators
 - Decorators are typically transparent to the client of the component; that is, unless the client is relying on the component’s concrete type
 - **Decorator**  
-  Attaches additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.”
+  Attaches additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
