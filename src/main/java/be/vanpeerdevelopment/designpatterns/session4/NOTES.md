@@ -1,4 +1,4 @@
-# Session 4 (09/12/2017)
+# Session 4 (16/01/2018)
 Facilitator: Thomas
 
 ## Chapters
