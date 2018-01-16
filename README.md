@@ -20,7 +20,7 @@ For each reading group session a java package exists containing the following:
 - [Session 1: intro, strategy](https://github.com/vanpeerdevelopment/head-first-design-patterns/blob/master/src/main/java/be/vanpeerdevelopment/designpatterns/session1/NOTES.md)
 - [Session 2: observer, decorator](https://github.com/vanpeerdevelopment/head-first-design-patterns/blob/master/src/main/java/be/vanpeerdevelopment/designpatterns/session2/NOTES.md)
 - [Session 3: factory, singleton](https://github.com/vanpeerdevelopment/head-first-design-patterns/blob/master/src/main/java/be/vanpeerdevelopment/designpatterns/session3/NOTES.md)
-- [Session 4: command, adapter, facade](https://github.com/vanpeerdevelopment/head-first-design-patterns/blob/master/src/main/java/be/vanpeerdevelopment/designpatterns/session4/NOTES.md)
+- [Session 4: command, adapter, facade, template method](https://github.com/vanpeerdevelopment/head-first-design-patterns/blob/master/src/main/java/be/vanpeerdevelopment/designpatterns/session4/NOTES.md)
 
 ## Links
 - [Design Patterns](https://refactoring.guru/design-patterns)

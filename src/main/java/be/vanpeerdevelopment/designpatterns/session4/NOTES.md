@@ -1,9 +1,10 @@
-# Session 4 (16/01/2018)
+# Session 4 (23/01/2018)
 Facilitator: Thomas
 
 ## Chapters
 6. The Command Pattern: Encapsulating Invocation
 7. The Adapter and Facade Patterns: Being Adaptive
+8. The Template Method Pattern: Encapsulating Algorithms
 
 ## Notes
 ### 6. The Command Pattern: Encapsulating Invocation
@@ -31,3 +32,5 @@ Facilitator: Thomas
   Only invoke methods that belong to the object itself, objects passed in as paramater to the method or an object the methode creates.
   Prevents us from creating designs that have a large number of classes coupled together so that changes in one part of the system cascade to other parts.
   Not to call methods on objects that were returned from calling other methods.
+  
+### 8. The Template Method Pattern: Encapsulating Algorithms
