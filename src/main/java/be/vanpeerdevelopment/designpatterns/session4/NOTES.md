@@ -34,3 +34,10 @@ Facilitator: Thomas
   Not to call methods on objects that were returned from calling other methods.
   
 ### 8. The Template Method Pattern: Encapsulating Algorithms
+- **Template Method**:  
+  Defines the skeleton of an algorithm in a method, deferring some steps to subclasses. Template Method lets subclasses redefine certain steps of an algorithm without changing the algorithm’s structure.
+- *Hook*:  
+  A hook is a method that is declared in the abstract class, but only given an empty or default implementation. This gives subclasses the ability to “hook into” the algorithm at various points, if they wish; a subclass is also free to ignore the hook.
+- *The Hollywood Principle*:  
+  Don't call us, we'll call you.
+  
