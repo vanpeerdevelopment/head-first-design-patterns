@@ -24,5 +24,5 @@ For each reading group session a java package exists containing the following:
 
 ## Links
 - [Design Patterns](https://refactoring.guru/design-patterns)
-- [Thomas Patterns](https://github.com/VanausloosThomas/PersonalDevelopment/blob/master/knowledge/DesignPatterns.md) 
+- [Thomas Patterns](https://github.com/VanausloosThomas/PersonalDevelopment/blob/master/knowledge/DesignPatterns/README.md) 
 
